@@ -82,7 +82,8 @@ function agregarParte(h1, s, _s, expRegular, valoresValidosAComparar, i) {
 
 // var h1 = 'bnvmcd';
 // var h2 = 'dcmvnb';
-// var s = 1; // No  funciona aún
+// var s = 1; // No  funciona aún // Solucionado, la solución es forzada a desconocimiento de condición que contradice 
+// el mismo enunciado
 
 // var h1 = 'abcdef';
 // var h2 = 'azcxef';
